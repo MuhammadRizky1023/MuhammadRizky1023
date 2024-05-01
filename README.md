@@ -19,11 +19,12 @@
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
   
 <h2>👨‍💻 tryhackme badge:</h2>
-<b>JOWASP Top 10</b>
-<b>JSecurity Awareness</b>
-<b>JMr.robot</b>
-<b>OhSINT/b>
-<b>Completed the Security Engineer Intro room!
+
+-<b>OWASP Top 10</b>
+-<b>JSecurity Awareness</b>
+-<b>JMr.robot</b>
+-<b>OhSINT/b>
+-<b>Completed the Security Engineer Intro room!
 Introduction to Security Engineering/b>
 
 
