@@ -17,16 +17,15 @@
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-  
+
+
 <h2>👨‍💻 tryhackme badge:</h2>
 
--<b>OWASP Top 10</b>
--<b>JSecurity Awareness</b>
--<b>JMr.robot</b>
--<b>OhSINT/b>
--<b>Completed the Security Engineer Intro room!
-Introduction to Security Engineering/b>
-
+- <b>OWASP Top 10<</b>
+- <b>FSecurity Awareness</b>
+- <b>Mr.Robot</b>
+- <b>OhSIN</b>
+- <b>Completed the Security Engineer Intro room! Introduction to Security Engineering/b>
 
 <h2> 🤳 Connect with me:</h2>
 
