@@ -22,7 +22,7 @@
 <h2>👨‍💻 tryhackme badge:</h2>
 
 - <b>OWASP Top 10</b>
-- <b>FSecurity Awareness</b>
+- <b>Security Awareness</b>
 - <b>Mr.Robot</b>
 - <b>OhSINT</b>
 - <b>Completed the Security Engineer Intro room! Introduction to Security Engineering</b>
