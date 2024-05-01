@@ -15,13 +15,13 @@
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+- <b>Golang</b>
+  - [Golang(Datastructures and Algorithms Demo)](https://github.com/MuhammadRizky1023/golang-developer)
 
 
 <h2>👨‍💻 tryhackme badge:</h2>
 
-- <b>OWASP Top 10<</b>
+- <b>OWASP Top 10</b>
 - <b>FSecurity Awareness</b>
 - <b>Mr.Robot</b>
 - <b>OhSINT</b>
