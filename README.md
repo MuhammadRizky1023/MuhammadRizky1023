@@ -24,8 +24,8 @@
 - <b>OWASP Top 10<</b>
 - <b>FSecurity Awareness</b>
 - <b>Mr.Robot</b>
-- <b>OhSIN</b>
-- <b>Completed the Security Engineer Intro room! Introduction to Security Engineering/b>
+- <b>OhSINT</b>
+- <b>Completed the Security Engineer Intro room! Introduction to Security Engineering</b>
 
 <h2> 🤳 Connect with me:</h2>
 
