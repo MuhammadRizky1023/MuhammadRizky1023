@@ -1,11 +1,11 @@
-<h1>Hi, I'm Muhammad Rizky! <br/><a href="https://github.com/MuhammadRizky1023">Programmer</a>, <a href="https://www.linkedin.com/in/muhammad-rizky-734150173/">Cybersecurity Professional</a>, <a>IOT Development</a>
+<h1>Hi, I'm Muhammad Rizky! <br/><a>Programmer</a>, <a >Cybersecurity Professional</a>, <a>IOT Development</a>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/MuhammadRizky1023/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+- <b>Full Stack Web App</b>
+  - [Image Analysis Middleware](https://github.com/MuhammadRizky1023/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/MuhammadRizky1023/JwipePowerShell)
