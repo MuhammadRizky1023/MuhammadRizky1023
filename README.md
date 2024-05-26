@@ -15,6 +15,22 @@
   - [Course Dashboard](https://github.com/MuhammadRizky1023/CourseDashboard)
 - <b>Golang</b>
   - [Golang(Datastructures and Algorithms Demo)](https://github.com/MuhammadRizky1023/golang-developer)
+ 
+<h2>👨‍💻 Software Development Projects:</h2>
+
+- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+  - [Praciting DS & Algos in Python](https://github.com/MuhammadRizky1023/Algorithms-Practice)
+- <b>Full Stack Web App</b>
+  - [Image Analysis Middleware](https://github.com/MuhammadRizky1023/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+- <b>PowerShell</b>
+  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/MuhammadRizky1023/Sentinel-Lab-)
+  - [JWipe (Disk Wiping Utility)](https://github.com/MuhammadRizky1023/JwipePowerShell)
+  - [Active Directory Bulk User Creation](https://github.com/MuhammadRizky1023/AD_PS)
+  - [FIM (File Integrity Monitor)](https://github.com/MuhammadRizky1023/Integrity-FIM)
+- <b>JAVA (Desktop Applications)</b>
+  - [Course Dashboard](https://github.com/MuhammadRizky1023/CourseDashboard)
+- <b>Golang</b>
+  - [Golang(Datastructures and Algorithms Demo)](https://github.com/MuhammadRizky1023/golang-developer)
 
 
 <h2>👨‍💻 tryhackme badge:</h2>
