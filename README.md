@@ -1,4 +1,4 @@
-<h1>Hi, I'm Muhammad Rizky! <br/><a>Programmer</a>, <a >Cybersecurity Professional</a>, <a>IOT Development</a>
+<h1>Hi, I'm Muhammad Rizky! <br/><a>Programmer</a>, <a >Cybersecurity Professional</a>, <a>Mechine Learning</a>, <a>IOT Development</a>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
@@ -11,12 +11,16 @@
   - [JWipe (Disk Wiping Utility)](https://github.com/MuhammadRizky1023/JwipePowerShell)
   - [Active Directory Bulk User Creation](https://github.com/MuhammadRizky1023/AD_PS)
   - [FIM (File Integrity Monitor)](https://github.com/MuhammadRizky1023/Integrity-FIM)
+- <b>KOTLIN (Mobile Applications)</b>
+  - [Post Social App](https://github.com/MuhammadRizky1023/Post-Social)
 - <b>JAVA (Desktop Applications)</b>
   - [Course Dashboard](https://github.com/MuhammadRizky1023/CourseDashboard)
-- <b>Golang</b>
-  - [Golang(Datastructures and Algorithms Demo)](https://github.com/MuhammadRizky1023/golang-developer)
+- <b>Api Intergreated</b>
+  - [QRCodeGenerator](https://github.com/MuhammadRizky1023/QRCodeGenerator)
+ - <b>Golang</b>
+  - [Golang(Datastructures and Algorithms Demo)](https://github.com/MuhammadRizky1023/golang-developer) 
  
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>⛏️IOT Project:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/MuhammadRizky1023/Algorithms-Practice)
@@ -32,6 +36,11 @@
 - <b>Golang</b>
   - [Golang(Datastructures and Algorithms Demo)](https://github.com/MuhammadRizky1023/golang-developer)
 
+ 
+  - <h2>🦿 Mechine Learning Projects:</h2>
+
+- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+  - [Praciting DS & Algos in Python](https://github.com/MuhammadRizky1023/MyTensorFlow)
 
 <h2>👨‍💻 tryhackme badge:</h2>
 
