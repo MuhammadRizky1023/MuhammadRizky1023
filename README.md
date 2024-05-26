@@ -24,7 +24,7 @@
 
 - <b>Connect Device to blynk</b>
   - [Connecting to blynk](https://github.com/MuhammadRizky1023/ConnectToBylink)
-- <b>onnect Device to NodeRed</b>
+- <b>Connect Device to NodeRed</b>
   - [Connecting to NodeRed](https://github.com/MuhammadRizky1023/ConnectToNodeRed)
 
 
