@@ -39,8 +39,8 @@
  
   - <h2>🦿 Mechine Learning Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/MuhammadRizky1023/MyTensorFlow)
+- <b>TensorFlow</b>
+  - [MyTensorFlow](https://github.com/MuhammadRizky1023/MyTensorFlow)
 
 <h2>👨‍💻 tryhackme badge:</h2>
 
@@ -58,7 +58,7 @@
 
 [twitter]: https://twitter.com/MuhammadRi24683
 [instagram]: https://www.instagram.com/rizky_muhammad01234/
-[linkedin]: https://linkedin.com/in/joshmadakor
+[linkedin]: https://www.linkedin.com/in/muhammad-rizky-734150173/
 
 <!--
 **MuhammadRizky1023/MuhammadRizky1023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
