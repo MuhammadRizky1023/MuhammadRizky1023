@@ -36,8 +36,8 @@
 - <b>Golang</b>
   - [Golang(Datastructures and Algorithms Demo)](https://github.com/MuhammadRizky1023/golang-developer)
 
- 
-  - <h2>🦿 Mechine Learning Projects:</h2>
+
+<h2>🦿 Mechine Learning Projects:</h2>
 
 - <b>TensorFlow</b>
   - [MyTensorFlow](https://github.com/MuhammadRizky1023/MyTensorFlow)
