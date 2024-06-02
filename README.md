@@ -18,10 +18,12 @@
 - <b>Api Intergreated</b>
   - [QRCodeGenerator](https://github.com/MuhammadRizky1023/QRCodeGenerator)
  - <b>Golang</b>
-  - [Golang(Datastructures and Algorithms Demo)](https://github.com/MuhammadRizky1023/golang-developer) 
- 
-<h2>⛏️IOT Project:</h2>
+  - [Golang(Datastructures and Algorithms Demo)](https://github.com/MuhammadRizky1023/golang-developer)
+  - <b>Python</b>
+  - [Stock Predicted]( https://github.com/MuhammadRizky1023/stockpredicted)
 
+
+<h2>⛏️IOT Project:</h2>
 - <b>Connect Device to blynk</b>
   - [Connecting to blynk](https://github.com/MuhammadRizky1023/ConnectToBylink)
 - <b>Connect Device to NodeRed</b>
