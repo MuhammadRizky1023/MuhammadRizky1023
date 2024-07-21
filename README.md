@@ -1,6 +1,6 @@
 <h1>Hi, I'm Muhammad Rizky! <br/><a>Programmer</a>, <a >Cybersecurity </a>, <a>Mechine Learning</a>, <a>IOT Development</a>
 
-<h2>🕵️Penetraion Testing:</h2>
+<h2>🕵️Penetration Testing:</h2>
 -<b>Top 10 Workshop challnge in spentera</b>
 
 <h2>👨‍💻 tryhackme badge:</h2>
