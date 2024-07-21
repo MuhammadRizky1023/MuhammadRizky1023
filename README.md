@@ -1,4 +1,17 @@
-<h1>Hi, I'm Muhammad Rizky! <br/><a>Programmer</a>, <a >Cybersecurity Professional</a>, <a>Mechine Learning</a>, <a>IOT Development</a>
+<h1>Hi, I'm Muhammad Rizky! <br/><a>Programmer</a>, <a >Cybersecurity </a>, <a>Mechine Learning</a>, <a>IOT Development</a>
+
+<h2>🕵️Penetraion Testing:</h2>
+-<b>Top 10 Workshop challnge in spentera</b>
+
+<h2>👨‍💻 tryhackme badge:</h2>
+- <b>My Account:hacking.guide</b>
+- <b>OWASP Top 10</b>
+- <b>Security Awareness</b>
+- <b>Mr.Robot</b>
+- <b>OhSINT</b>
+- <b>Completed the Security Engineer Intro room! Introduction to Security Engineering</b>
+
+
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
@@ -40,13 +53,6 @@
 - <b>TensorFlow</b>
   - [MyTensorFlow](https://github.com/MuhammadRizky1023/MyTensorFlow)
 
-<h2>👨‍💻 tryhackme badge:</h2>
-- <b>My Account:hacking.guide</b>
-- <b>OWASP Top 10</b>
-- <b>Security Awareness</b>
-- <b>Mr.Robot</b>
-- <b>OhSINT</b>
-- <b>Completed the Security Engineer Intro room! Introduction to Security Engineering</b>
 
 <h2> 🤳 Connect with me:</h2>
 
